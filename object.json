@@ -1,0 +1,16 @@
+{
+    "Name": "Wooly Stardrop",
+    "Description": "Reminds you of your favorite things.",
+    "Category": "ArtisanGoods",
+    "Edibility": -300,
+    "EdibleIsDrink": false,
+    "Price": 600,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false,
+    "GiftTastes": { 
+"Love": [ "Emily", "Penny", "Jas", "Vincent", "Harvey", "Dwarf", "Wizard", "Krobus", "Kent"],
+
+}
+      
+}

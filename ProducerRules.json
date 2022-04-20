@@ -1,0 +1,91 @@
+[
+     //Knitting Table
+         
+{
+		"ProducerName": "Knitting Table",
+		"InputIdentifier": "062",
+		"InputStack": 1,
+                "FuelIdentifier": "440",
+                "FuelStack": 1,
+		"MinutesUntilReady": 60,
+		"OutputIdentifier":"Wooly Jellyfish",
+		"OutputStack": 1,
+	        "Sounds": ["Ship"],
+	},
+	
+	{
+		"ProducerName": "Knitting Table",
+		"InputIdentifier": "064",
+		"InputStack": 1,
+                "FuelIdentifier": "440",
+                "FuelStack": 1,
+		"MinutesUntilReady": 60,
+		"OutputIdentifier":"Wooly Flower",
+		"OutputStack": 1,
+                "Sounds": ["Ship"],
+		
+	},
+
+{
+		"ProducerName": "Knitting Table",
+		"InputIdentifier": "060",
+		"InputStack": 1,
+                "FuelIdentifier": "440",
+                "FuelStack": 1,
+		"MinutesUntilReady": 60,
+		"OutputIdentifier":"Wooly Junimo",
+		"OutputStack": 1,
+                "Sounds": ["Ship"],
+		
+	},
+
+{
+		"ProducerName": "Knitting Table",
+		"InputIdentifier": "068",
+		"InputStack": 1,
+                "FuelIdentifier": "440",
+                "FuelStack": 1,
+		"MinutesUntilReady": 60,
+		"OutputIdentifier":"Wooly Chicken",
+		"OutputStack": 1,
+                "Sounds": ["Ship"],
+		
+	},
+
+{
+		"ProducerName": "Knitting Table",
+		"InputIdentifier": "072",
+		"InputStack": 1,
+                "FuelIdentifier": "440",
+                "FuelStack": 1,
+		"MinutesUntilReady": 60,
+		"OutputIdentifier":"Wooly Slime",
+		"OutputStack": 1,
+                "Sounds": ["Ship"],		
+	},
+
+{
+		"ProducerName": "Knitting Table",
+		"InputIdentifier": "066",
+		"InputStack": 1,
+                "FuelIdentifier": "440",
+                "FuelStack": 1,
+		"MinutesUntilReady": 60,
+		"OutputIdentifier":"Wooly Stardrop",
+		"OutputStack": 1,
+                "Sounds": ["Ship"],		
+	},
+
+{
+		"ProducerName": "Knitting Table",
+		"InputIdentifier": "070",
+		"InputStack": 1,
+                "FuelIdentifier": "440",
+                "FuelStack": 1,
+		"MinutesUntilReady": 60,
+		"OutputIdentifier":"Wooly Dino",
+		"OutputStack": 1,
+                "Sounds": ["Ship"],		
+	},
+	
+	]

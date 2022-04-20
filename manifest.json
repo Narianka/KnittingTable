@@ -1,0 +1,18 @@
+{
+	"Name": "[PFM] Knitting Table",
+	"Author": "Narianka",
+	"Version": "1.0.0",
+	"Description": "Producer rules for the Knitting Table",
+	"UniqueID": "Narianka.PFMKnittingTable",
+	"MinimumApiVersion": "3.9.0",
+	"UpdateKeys": [ "" ],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	},
+	"Dependencies": [
+   {
+      "UniqueID": "Narianka.KnittingTable",
+      "IsRequired": true,
+   },
+]
+}

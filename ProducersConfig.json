@@ -1,0 +1,9 @@
+[
+	{
+	"ProducerName": "Knitting Table",
+	"AlternateFrameProducing": false, 
+	"AlternateFrameWhenReady": false,
+        "DisableBouncingAnimationWhileWorking": false,
+	},
+
+]
